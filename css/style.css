@@ -14,7 +14,7 @@
     --secondaryColor:white;
     --alternativeColor:gray;
     --boderColor:#0f386f;
-    font-family: 'Chivo Mono', monospace;
+    --font-family: 'Chivo Mono', monospace;
 }
 
 /* logo */
